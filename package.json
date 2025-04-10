@@ -8,12 +8,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "file-saver": "^2.0.5",
-    "html5-qrcode": "^2.3.8",
-    "lucide-react": "^0.268.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "xlsx": "^0.18.5"
+    "html5-qrcode": "^2.3.8",
+    "file-saver": "^2.0.5",
+    "xlsx": "^0.18.5",
+    "lucide-react": "^0.268.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
